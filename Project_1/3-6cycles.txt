@@ -1,0 +1,11 @@
+D6 G  G  G  D1 P2 E  D0 J5 E  
+G  G  G  D3 D2 E  D0 E  D0 E  
+G  G  D0 D6 E  E  D0 E  D0 E  
+G  D5 D5 E  E  E  E  J5 E  E  
+J2 D0 D0 D0 D0 D0 D0 D0 D0 D0 
+E  E  E  E  E  E  P2 D0 E  E  
+J0 E  D0 D0 D2 D0 D1 D0 D1 D0 
+E  J0 J0 D0 D1 E  P0 P1 D1 G  
+E  J0 P0 E  P0 E  P0 P0 G  G  
+E  J0 P0 E  P0 E  E  E  G  G  
+ 

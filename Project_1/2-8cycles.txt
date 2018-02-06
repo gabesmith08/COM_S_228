@@ -1,0 +1,8 @@
+G  G  D0 D0 G  G  
+G  G  E  D4 D5 G  
+G  G  D0 E  D5 D4 
+J0 J1 D2 E  D3 G  
+J0 J1 D1 D0 P3 G  
+G  G  G  P0 E  G  
+
+
