@@ -1,0 +1,1 @@
+This project involved developing and utilizing my own code for a Insertion Sorter, Merge Sorter, and Quick Sorter. All of which have the same output, but use different algorithms to get to that output. 
